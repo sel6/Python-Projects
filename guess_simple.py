@@ -1,3 +1,4 @@
+#GUESS RANDOM NUMBER IN THREE TRIALS
 from random import randint
 guessed = False
 number = randint(0, 100)
